@@ -42,7 +42,7 @@ Check out our solution in action on YouTube:
 
 Here is my certificate of participation for the hackathon:
 
-![Hackathon Certificate](https://drive.google.com/file/d/1oyt1j9ipAc8MMokbOXKTdeFnd435I7HP/view?usp=sharing)
+![Hackathon Certificate](https://drive.google.com/file/d/1oyt1j9ipAc8MMokbOXKTdeFnd435I7HP/view?usp=drive_link)
 
 ## Acknowledgments
 
